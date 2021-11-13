@@ -19,6 +19,7 @@ server_scripts{
 
 dependencies {
 	'qb-core',
+	'qb-menu',
 	-- Si quieres cambiar el scripts de framework elemina esta linea de codigo (DESDE LA 20)
 	-- https://github.com/qbcore-framework
 }
