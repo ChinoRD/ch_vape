@@ -26,3 +26,10 @@ start ch_vape
 5. ESTE ESCRIPTS SOLO SIVER PARA QB-CORE PUEDES VER MAS INFO A AQUI
 
 https://github.com/qbcore-framework
+
+#   ____  ____   _____               
+#  / __ \|  _ \ / ____|              
+# | |  | | |_) | |     ___  _ __ ___ 
+# | |  | |  _ <| |    / _ \| '__/ _ \
+# | |__| | |_) | |___| (_) | | |  __/
+#  \___\_\____/ \_____\___/|_|  \___|
