@@ -1,8 +1,15 @@
 GRACIAS POR DESCARGAR ESTE SCRIPTS, ESO ME AYUDA A DESAROLLAR MAS ESCRIPTS...
 
-1. DESCARGA LAS NOTIFUCACIONOS O CAMBILAS A TU GUSTO:
+1. DESCARGA LAS NOTIFICACIONES O CAMBILAS A TU GUSTO:
 
-link de las notificaciones
+dopeNotifyV2 
+
+https://cdn.discordapp.com/attachments/883881710763262003/909133633061797918/dopeNotifyV2.rar 
+
+okokNotify 
+
+https://cdn.discordapp.com/attachments/883881710763262003/909133828986118206/okokNotify_InnerPeaceLeaks.rar 
+
 
 NOTA: PUEDES CAMBIAR LEMPLAZNDO DONDE DICE "dopeNotify2"
 
@@ -19,5 +26,3 @@ start ch_vape
 5. ESTE ESCRIPTS SOLO SIVER PARA QB-CORE PUEDES VER MAS INFO A AQUI
 
 https://github.com/qbcore-framework
-
-
